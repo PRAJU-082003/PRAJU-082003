@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--
 **YOUR-USERNAME/YOUR-USERNAME** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
@@ -71,6 +70,15 @@
 
 * STM32 + Embedded C
 * Automotive systems: **TPMS, BMS, CAN/LIN, ADAS**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRAJU-082003&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAJU-082003&theme=tokyonight"/>
+</p>
 
 ---
 
