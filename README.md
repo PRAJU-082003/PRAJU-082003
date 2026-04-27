@@ -61,16 +61,20 @@
 
 ## 💼 Experience
 
-### 🏭 Numerous Motors Pvt. Ltd.
+### 🏭 Numerous Motors Pvt. Ltd. 
 
 * BMS temperature monitoring system
 * PCB design using KiCad
 
-### 🚗 Vision Astra EV Academy
+### 🚗 Vision Astra EV Academy - Bangalore 
 
 * STM32 + Embedded C
 * Automotive systems: **TPMS, BMS, CAN/LIN, ADAS**
 
+### 🚗 VLSIGuru Learning Pvt. Ltd. — RTL Design & Verification Intern
+
+* Strong programming skills in UVM, Verilo/SV, Python.
+* Experience verifying CPU/GPU integration at the SOC level.
 ---
 
 ## 📊 GitHub Stats
@@ -85,8 +89,8 @@
 ## 📫 Connect with Me
 
 * 📧 Email: [prajwalgundmi@email.com](mailto:prajwalgundmi@email.com)
-* 💼 LinkedIn: *Add your link here*
-* 💻 GitHub: *Add your link here*
+* 💼 LinkedIn: [*Add your link here*](https://www.linkedin.com/in/prajwal-gundmi-94b927202/)
+* 💻 GitHub: [*Add your link here*](https://github.com/PRAJU-082003/PRAJU-082003/edit/main/README.md)
 
 ---
 
