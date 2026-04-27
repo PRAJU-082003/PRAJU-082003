@@ -89,8 +89,8 @@
 ## 📫 Connect with Me
 
 * 📧 Email: [prajwalgundmi@email.com](mailto:prajwalgundmi@email.com)
-* 💼 LinkedIn: [*Add your link here*](https://www.linkedin.com/in/prajwal-gundmi-94b927202/)
-* 💻 GitHub: [*Add your link here*](https://github.com/PRAJU-082003/PRAJU-082003/edit/main/README.md)
+* 💼 LinkedIn: [*LINKEDIN*](https://www.linkedin.com/in/prajwal-gundmi-94b927202/)
+* 💻 GitHub: [*GITHUB*](https://github.com/PRAJU-082003/PRAJU-082003/edit/main/README.md)
 
 ---
 
