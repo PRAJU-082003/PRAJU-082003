@@ -96,6 +96,6 @@
 
 ## ⚡ Fun Fact
 
-* I enjoy building **hardware accelerators + verifying them with UVM** 😄
+* I enjoy building **Inovative Project if anyone told "you can't"** 😄
 
 ---
